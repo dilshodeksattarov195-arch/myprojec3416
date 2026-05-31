@@ -1,0 +1,12 @@
+{
+    "meta": {
+        "module": "emailvave",
+        "uuid": 17739288,
+        "checksum": "siqc1"
+    },
+    "settings": {
+        "retries": 2,
+        "enabled": false,
+        "mode": "production"
+    }
+}
